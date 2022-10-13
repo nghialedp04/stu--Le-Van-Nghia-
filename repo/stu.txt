@@ -1,7 +1,7 @@
-Hello STUnited I am new member 2
-
+c1
+c2,5
 hello 2nd
  Hello STUnited My name is Nghia Le
 
 
-c3
+c3,5
